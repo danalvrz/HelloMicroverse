@@ -1,3 +1,7 @@
 # .gitignore
 node_modules/
 test.md
+.hintrc
+package-lock.json
+package.json
+.stylelintrc.json
