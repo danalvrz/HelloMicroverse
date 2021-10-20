@@ -22,7 +22,7 @@ This is my first project for Microverse, and it says hi!
 
 - GitHub: [@danalvrz](https://github.com/danalvrz)
 - Twitter: [@danalvrz](https://twitter.com/danalvrz)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Dante Álvarez](https://www.linkedin.com/in/dante-álvarez-85098a222/)
 
 
 ## Show your support
@@ -31,7 +31,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Special thanks to [@ivaan1992] and for all the help!
+- Special thanks to [@ivaan1992](https://github.com/ivaan1992) and for all the help!
 
 ## 📝 License
 
