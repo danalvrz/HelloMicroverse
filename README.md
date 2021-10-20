@@ -2,7 +2,7 @@
 
 This is my first project for Microverse, and it says hi!
 
-![screenshot](./app_screenshot.png)
+![screenshot](/images/app_screenshot.png)
 
 
 ## Built With
@@ -31,7 +31,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Special thanks to [@] for all of their useful help!
+- Special thanks to [@ivaan1992] and for all the help!
 
 ## 📝 License
 
