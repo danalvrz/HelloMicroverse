@@ -18,10 +18,10 @@ This is my first project for Microverse, and it says hi!
 
 ## Authors
 
-👤 **Author1**
+👤 **Dante Alvarez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@danalvrz](https://github.com/danalvrz)
+- Twitter: [@danalvrz](https://twitter.com/danalvrz)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
@@ -31,9 +31,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Special thanks to [@] for all of their useful help!
 
 ## 📝 License
 
